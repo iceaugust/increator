@@ -6,5 +6,5 @@
 
 ## font字体库用法
 
-[www.iconfont.c](/www.iconfont.com)n
+[www.iconfont.cn](/www.iconfont.com)
 

@@ -1,2 +1,4 @@
-此文章一定要看，开发页面时一定按此标准执行
+# 前端开规范-开发页面务必要看
+
+[http://codeguide.bootcss.com/\#html-syntax](http://codeguide.bootcss.com/#html-syntax)
 

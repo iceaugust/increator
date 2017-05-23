@@ -5,5 +5,5 @@
 * [扩展表单控件](kuo-zhan-biao-dan-kong-jian.md)
 * [开发规范](kai-fa-gui-fan.md)
   * [前端开发规范](前端开发规范.md)
-  * [后端开发规范【曲】](kai-fa-gui-fan/hou-duan-kai-fa-gui-fan-3010-qu-3011.md)
+  * [后端开发规范【曲】](后端开发规范)
 

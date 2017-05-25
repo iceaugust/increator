@@ -1,4 +1,4 @@
-# 开发页面务必要看
+* # 开发页面务必要看
 
 ## bootstrap开发规范
 
@@ -8,10 +8,8 @@
 
 [www.iconfont.cn](/www.iconfont.com)
 
-![](/assets/01.png)
-![](/assets/02.png)
-![](/assets/03.png)
+![](/assets/01.png)  
+![](/assets/02.png)  
+![](/assets/03.png)  
 ![](/assets/04.png)
-
-
 

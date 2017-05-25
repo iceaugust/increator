@@ -1,10 +1,10 @@
 # 开发页面务必要看
 
-## bootstrap开发规范
+## 1、bootstrap开发规范
 
 [http://codeguide.bootcss.com/\#html-syntax](http://codeguide.bootcss.com/#html-syntax)
 
-## font字体库用法
+## 2、font字体库用法
 
 [www.iconfont.cn](/www.iconfont.com)
 

@@ -15,7 +15,7 @@
 ![](/assets/03.png)  
 ![](/assets/04.png)
 
-### 2.2  font字体库用法
+### 2.2  FontIconCreator
 
 
 

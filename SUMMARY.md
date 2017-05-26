@@ -9,4 +9,5 @@
   * [后端开发规范【曲】](kai-fa-gui-fan/hou-duan-kai-fa-gui-fan.md)
 * [附录](bei-zhu-zhu-yi.md)
 * [gitbook使用注意事项](gitsvn.md)
+* [mybatis数据连接串引起乱码问题](mybatisshu-ju-lian-jie-chuan-yin-qi-luan-ma-wen-ti.md)
 

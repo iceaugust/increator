@@ -7,8 +7,10 @@
 7. 且再编辑时，又会在下层自动创建了.svn，所以每次提交时，需要手动把子目录的.svn删除掉，再提交，否则就无法正常提交
 8. 使用svn技巧，可以右键中选择忽略列表，忽略.git，这个文件夹非常大，且没必要提交，同理“\_book”目录也可忽略
 9. 历史版本下载地址
-10. [https://www.gitbook.com/editor/releases/stable](https://www.gitbook.com/editor/releases/stable)
-11. 安装gitbook有时会报错，一般是由于缓存目录文件被占用，重启或注销再来安装即可
+
+[https://www.gitbook.com/editor/releases/stable](https://www.gitbook.com/editor/releases/stable)
+
+1. 安装gitbook有时会报错，一般是由于缓存目录文件被占用，重启或注销再来安装即可
 
 
 

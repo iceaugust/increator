@@ -1,6 +1,4 @@
-# gitbook和svn使用兼容故障处理
-
-
+gitbook使用说明gitbook和svn使用兼容故障处理
 
 1. 编辑时使用gitbook的7.0版本进行编辑\(即安装GitBook.Editor.Setup\)，比较方便，但缺点是不能发布编译成html。使用此编辑器，会自创建一个名为“Import”的工作区。也可以选择历史版本，
 

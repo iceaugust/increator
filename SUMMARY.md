@@ -10,4 +10,5 @@
 * [附录](bei-zhu-zhu-yi.md)
 * [gitbook使用注意事项](gitsvn.md)
 * [mybatis乱码问题](mybatisshu-ju-lian-jie-chuan-yin-qi-luan-ma-wen-ti.md)
+* [笔记](bi-ji.md)
 

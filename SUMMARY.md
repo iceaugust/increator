@@ -8,7 +8,7 @@
   * [前端开发规范](kai-fa-gui-fan/qian-duan-kai-fa-gui-fan.md)
   * [后端开发规范【曲】](kai-fa-gui-fan/hou-duan-kai-fa-gui-fan.md)
 * [附录](bei-zhu-zhu-yi.md)
-  * lomboz注解使用
+  * [lomboz注解使用](lombozzhu-jie-shi-yong.md)
   * [gitbook使用注意事项](gitsvn.md)
   * [mybatis乱码问题](mybatisshu-ju-lian-jie-chuan-yin-qi-luan-ma-wen-ti.md)
 * [笔记](bi-ji.md)

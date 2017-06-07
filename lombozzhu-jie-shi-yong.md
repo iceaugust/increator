@@ -2,7 +2,5 @@
 
 下载地址：[https://projectlombok.org/](https://projectlombok.org/download)
 
-eclispe手动插件安装说明：
-
 
 

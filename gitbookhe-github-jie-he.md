@@ -18,5 +18,5 @@ github仓库地址：[https://github.com/iceaugust/increator.git](https://github
 
 4、日常编辑修改，保存完本地文件后，会在右上角显示待同步的文件数量，如下图所示，需要上传到github仓库时，点击这个按钮即相当于check in或commit的操作，应该也是等同于菜单中的“push”。
 
-
+![](/assets/push.png)
 

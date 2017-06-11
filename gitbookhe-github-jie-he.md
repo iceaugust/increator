@@ -35,6 +35,10 @@ github仓库地址：[https://github.com/iceaugust/increator.git](https://github
 
 方式一：使用离线工具发布成本地的html的web目录手册。
 
+使用老版本的gitbook打开，直接在本地发布，详见下图
+
+![](/assets/publish4.png)
+
 
 
 方式二：全用在线的发布功能，发布，详见下图：

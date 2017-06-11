@@ -10,5 +10,7 @@ github仓库地址：[https://github.com/iceaugust/increator.git](https://github
 
 使用方法：
 
-1、注册github账号
+1、注册github账号，并在gitbook中使用此账号登录，不登录也可，但在同步项目时还是会提示登录。
+
+2、在gitbook中选择工作区，比如e:\gitbook\_work，并创建新book，![](/assets/import.png)
 

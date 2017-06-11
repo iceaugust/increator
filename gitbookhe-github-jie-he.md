@@ -35,11 +35,9 @@ github仓库地址：[https://github.com/iceaugust/increator.git](https://github
 
 方式一：使用离线工具发布成本地的html的web目录手册。
 
-使用老版本的gitbook打开，直接在本地发布，详见下图
+使用老版本的gitbook打开，直接在本地发布，发布成功能，会在项目同目录下生成一个名为“\_book”的目录，此目录即为对源文件md文件编辑后的html目录完整目录，详见下图
 
-![](/assets/publish4.png)
-
-
+![](/assets/publish4.png)![](/assets/publish5.png)
 
 方式二：全用在线的发布功能，发布，详见下图：
 

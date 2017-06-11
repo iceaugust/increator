@@ -21,75 +21,11 @@ github仓库地址：[https://github.com/iceaugust/increator.git](https://github
 
 # 在线编辑gitbook
 
+编辑gitbook除了本地客户端安装gitbook外，也可以直接在浏览器中使用。
 
+注册gitbook账号，不确定是不是可以和github共用，我是单独注册了，直接访问官网：ww.gitbook.com。
 
+参考这个文档中的后半部分章节，[http://blog.csdn.net/snail\_ren/article/details/53318564](http://blog.csdn.net/snail_ren/article/details/53318564)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+将账号与仓库进行绑定，但还不确定同一个仓库是否能绑定给多个gitbook账号。
 

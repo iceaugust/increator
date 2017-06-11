@@ -8,7 +8,7 @@ github官网：[https://github.com/](https://github.com/)
 
 github仓库地址：[https://github.com/iceaugust/increator.git](https://github.com/iceaugust/increator.git)
 
-使用方法：
+# 使用方法：
 
 1、注册github账号，并在gitbook中使用此账号登录，不登录也可，但在同步项目时还是会提示登录。
 

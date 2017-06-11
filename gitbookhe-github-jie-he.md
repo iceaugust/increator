@@ -10,5 +10,5 @@ github仓库地址：[https://github.com/iceaugust/increator.git](https://github
 
 使用方法：
 
-
+1、注册github账号
 

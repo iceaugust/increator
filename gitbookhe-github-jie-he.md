@@ -29,7 +29,13 @@ github仓库地址：[https://github.com/iceaugust/increator.git](https://github
 
 ![](/assets/creatbook_fromgit.png)
 
-# 在线发布gitbook
+# 发布gitbook
+
+发布手册有两种方式
+
+方式一：使用离线工具发布成本地的html的web目录手册。
+
+方式二：全用在线的发布功能，发布，详见下图：
 
 
 

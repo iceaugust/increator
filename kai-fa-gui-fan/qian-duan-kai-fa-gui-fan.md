@@ -30,6 +30,8 @@
 操作方法如下：
 
 * 在图标库[http://www.iconfont.cn/](http://www.iconfont.cn/)   上注册账号，并创建项目，同一个项目用一个账号，可以用于后期想增加图标时以免覆盖原来已经在使用的图标。
+* 将需要的图标加入购物车，再从购物车中批量加入项目，再从项目中批量下载。
+* 下截完后的压缩包中包含css、字体文件、demo等文件，先对字体文件进行更名为“font-increator”，然后对css文件顶部几行引用文件名的地方相应的进行修改即可。
 
 ![](/assets/myproject.png)![](/assets/myproject_edit.png)
 

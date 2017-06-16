@@ -29,7 +29,7 @@
 
 操作方法如下：
 
-* 在图标库http://www.iconfont.cn/上注册，并创建项目，同一个项目用一个账号，可以用于后期想增加图标时以免覆盖原来已经在使用的图标。
+* 在图标库~~http://www.iconfont.cn/~~   上注册，并创建项目，同一个项目用一个账号，可以用于后期想增加图标时以免覆盖原来已经在使用的图标。
 
 ![](/assets/myproject.png)![](/assets/myproject_edit.png)
 
